@@ -29,6 +29,7 @@ pip install -r requirements.txt
 4. **[JiJianWallpaper](https://github.com/redballoom/spider-projects/tree/main/JiJianWallpaper)** - 采用线程池+队列，爬取极简壁纸的壁纸。
 5. **[ruanyifeng](https://github.com/redballoom/spider-projects/tree/main/ruanyifeng)** - 采用进程池爬取阮一峰周刊的资源信息并保存为json文件。
 6. **[SpiderPractice](https://github.com/redballoom/spider-projects/tree/main/SpiderPractice)** - Spiderbuf的爬虫练习靶场，入门级爬虫练习。
+7. **[UPUPOO](https://github.com/redballoom/spider-projects/tree/main/UPUPOO)** - 采用进程池和线程池合作的方式来实现的壁纸采集爬虫。
 ## 关注
 
 如果你对这个项目感兴趣，欢迎 `Star `或 `Fork `本项目。你的支持是我更新的最大动力！
