@@ -1,0 +1,92 @@
+[
+  {
+    "ip": "172.18.117.6",
+    "mac": "DD-D1-1C-32-89-E3",
+    "manufacturer": "HUAWEI",
+    "name": "OA服务器",
+    "ports": "80,22,443",
+    "status": "在线",
+    "type": "服务器"
+  },
+  {
+    "ip": "10.49.119.200",
+    "mac": "34-59-71-41-63-8E",
+    "manufacturer": "HUAWEI",
+    "name": "交换机",
+    "ports": "80,22,443",
+    "status": "离线",
+    "type": "交换机"
+  },
+  {
+    "ip": "172.29.31.61",
+    "mac": "EE-93-CB-06-0D-D3",
+    "manufacturer": "Linux",
+    "name": "测试服务器",
+    "ports": "80,22,443",
+    "status": "在线",
+    "type": "服务器"
+  },
+  {
+    "ip": "172.20.98.238",
+    "mac": "51-02-BF-FA-AB-8D",
+    "manufacturer": "HUAWEI",
+    "name": "交换机",
+    "ports": "80,22,443",
+    "status": "在线",
+    "type": "交换机"
+  },
+  {
+    "ip": "10.52.185.102",
+    "mac": "70-A5-E9-5E-EC-97",
+    "manufacturer": "HUAWEI",
+    "name": "存储服务器",
+    "ports": "9000,5606",
+    "status": "在线",
+    "type": "服务器"
+  },
+  {
+    "ip": "172.30.116.46",
+    "mac": "69-E6-56-A9-30-30",
+    "manufacturer": "Windows Server 2012",
+    "name": "存储服务器",
+    "ports": "80,22,443",
+    "status": "离线",
+    "type": "服务器"
+  },
+  {
+    "ip": "10.2.190.30",
+    "mac": "E6-E4-54-64-82-E9",
+    "manufacturer": "Linux",
+    "name": "ERP服务器",
+    "ports": "80,22,443",
+    "status": "离线",
+    "type": "服务器"
+  },
+  {
+    "ip": "10.46.235.52",
+    "mac": "BE-5C-49-AD-38-09",
+    "manufacturer": "HUAWEI",
+    "name": "堡垒机",
+    "ports": "80,22,443",
+    "status": "在线",
+    "type": "服务器"
+  },
+  {
+    "ip": "10.104.171.123",
+    "mac": "07-15-1C-0F-66-F3",
+    "manufacturer": "HUAWEI",
+    "name": "摄像头",
+    "ports": "80,22,443",
+    "status": "在线",
+    "type": "摄像头"
+  },
+  {
+    "ip": "172.28.109.198",
+    "mac": "08-C1-14-56-73-A7",
+    "manufacturer": "Linux",
+    "name": "存储服务器",
+    "ports": "80,22,443",
+    "status": "在线",
+    "type": "服务器"
+  }
+]

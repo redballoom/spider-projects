@@ -1,0 +1,31 @@
+ranking,password,cracking_time,use_num
+1,password,< 1 Second,4929113
+2,123456,< 1 Second,1523537
+3,123456789,< 1 Second,413056
+4,guest,10 Seconds,376417
+5,qwerty,< 1 Second,309679
+6,12345678,< 1 Second,284946
+7,111111,< 1 Second,229047
+8,12345,< 1 Second,188602
+9,col123456,11 Seconds,140505
+10,123123,< 1 Second,127762
+11,1234567,< 1 Second,110279
+12,1234,< 1 Second,106929
+13,1234567890,< 1 Second,105189
+14,000000,< 1 Second,102636
+15,555555,< 1 Second,98353
+16,666666,< 1 Second,91274
+17,123321,< 1 Second,83241
+18,654321,< 1 Second,81231
+19,7777777,< 1 Second,74233
+20,123,< 1 Second,60795
+21,D1lakiss,3 Hours,50181
+22,777777,< 1 Second,48903
+23,110110jp,3 Seconds,48265
+24,1111,< 1 Second,47935
+25,987654321,< 1 Second,46891
+26,121212,< 1 Second,46298
+27,Gizli,10 Seconds,44874
+28,abc123,< 1 Second,44587
+29,112233,< 1 Second,43615
+30,azerty,< 1 Second,43101
