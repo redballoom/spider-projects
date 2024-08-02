@@ -30,9 +30,9 @@ pip install -r requirements.txt
 5. **[ruanyifeng](https://github.com/redballoom/spider-projects/tree/main/ruanyifeng)** - 采用进程池爬取阮一峰周刊的资源信息并保存为json文件。
 6. **[SpiderPractice](https://github.com/redballoom/spider-projects/tree/main/SpiderPractice)** - Spiderbuf的爬虫练习靶场，入门级爬虫练习。
 7. **[UPUPOO](https://github.com/redballoom/spider-projects/tree/main/UPUPOO)** - 采用进程池和线程池合作的方式来实现的壁纸采集爬虫。
-8. **[樱花动漫视频下载](https://github.com/redballoom/spider-projects/tree/main/)** - 异步协程下载樱花动漫，m3u8无加密采集ts加视频合并。
-9. **[绅士动漫视频下载](https://github.com/redballoom/spider-projects/tree/main/)** - 使用协程下载第一动漫的绅士栏目动漫，使用注意频率。
-10. **[telegra图集下载](https://github.com/redballoom/spider-projects/tree/main/)** - 使用协程下载telegeram中的图集，复制网页链接即可。
+8. **[樱花动漫视频下载](https://github.com/redballoom/spider-projects/tree/main/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD)** - 异步协程下载樱花动漫，m3u8无加密采集ts加视频合并。
+9. **[绅士动漫视频下载](https://github.com/redballoom/spider-projects/tree/main/%E7%BB%85%E5%A3%AB%E5%8A%A8%E6%BC%AB%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD)** - 使用协程下载第一动漫的绅士栏目动漫，使用注意控制频率。
+10. **[telegra图集下载](https://github.com/redballoom/spider-projects/tree/main/telegra%E5%9B%BE%E9%9B%86%E4%B8%8B%E8%BD%BD)** - 使用协程下载telegeram中的图集，复制网页链接即可。
 ## 关注
 
 如果你对这个项目感兴趣，欢迎 `Star `或 `Fork `本项目。你的支持是我更新的最大动力！
